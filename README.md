@@ -9,8 +9,7 @@ Voici un template de cahier des charges fonctionnels, modifiez le a votre guise 
 - [Informations](https://www.fliplingo.com)
 
 La partie informations contient tout les comptes rendus, les messages, mails échangés avec le client ainsi que la gestion des risques
-  - [CR](http://www.streamlineicons.com)
-  C'est ici que se trouvent tous les compte rendus de réunions
+  - [CR](http://www.streamlineicons.com) C'est ici que se trouvent tous les compte rendus de réunions
     - [Client](#)
     - [Equipe](http://www.microsoft.com/en-us/news/stories/garage/)
   - [Mails](#)
