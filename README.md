@@ -5,7 +5,7 @@ Cet outil de recettage se présente sous forme d'un fichier ZIP à l'architectur
 
 - [Cahier des Charges](http://www.materialup.com)
 - [Informations](https://www.fliplingo.com)
-  - [CR](http://www.streamlineicons.com) C'est ici que se trouvent tous les compte rendus de réunions
+  - [CR](http://www.streamlineicons.com)
     - [Client](#)
     - [Equipe](http://www.microsoft.com/en-us/news/stories/garage/)
   - [Mails](#)
@@ -26,6 +26,9 @@ Cet outil de recettage se présente sous forme d'un fichier ZIP à l'architectur
 
 ## Cahier des charges
 Voici un template de cahier des charges fonctionnels, modifiez le a votre guise ou ajouté le votre !
+
+## CR
+C'est ici que se trouvent tous les compte rendus de réunions
 
 ## Informations
 La partie informations contient tout les comptes rendus, les messages, mails échangés avec le client ainsi que la gestion des risques
