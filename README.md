@@ -35,7 +35,8 @@ Dans le Cahier des Charges vous trouverez:
   - Les Objectifs SMART
   - La composition des équipes :
     - Équipe Projet
-    - **Équipe Client** 
+    - **Équipe Client**
+    
 ## CR
 C'est ici que se trouvent tous les compte rendus de réunions
 
