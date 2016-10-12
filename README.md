@@ -25,7 +25,8 @@ Si vous souhaitez l'utilisé comme un outil collaboratif il vous suffit glisser 
   - [Acces.pdf](#)  
 - [Developpement](#)
 - [Livrables](#)
-- **[Feuille de recettage](#)**
+- **[Feuille de recettage](#)**  
+*les dossiers en gras nécessite la signature du client*
 
 ## Cahier des charges
 Voici un template de cahier des charges fonctionnels, modifiez le a votre guise ou ajouté le votre !
