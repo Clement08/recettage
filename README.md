@@ -6,7 +6,9 @@ Cet outil de recettage se présente sous forme d'un fichier ZIP à l'architectur
 - [CDCF.PDF](http://www.materialup.com)
 - [Informations](https://www.fliplingo.com)
   - [CR](http://www.streamlineicons.com)
+  
     c'est ici que ce trouve les 
+    
     - [Client](#)
     - [Equipe](http://www.microsoft.com/en-us/news/stories/garage/)
   - [Mails](#)
