@@ -3,8 +3,7 @@
 Cet outil de recettage se présente sous forme d'un fichier ZIP à l'architecture suivante :
 
 
-- [Cahier des Charges](http://www.materialup.com)
-
+#### - [Cahier des Charges](http://www.materialup.com)
 Voici un template de cahier des charges fonctionnels, modifiez le a votre guise ou ajouté le votre !
 - [Informations](https://www.fliplingo.com)
 La partie informations contient tout les comptes rendus, les messages, mails échangés avec le client ainsi que la gestion des risques
