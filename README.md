@@ -30,7 +30,12 @@ Si vous souhaitez l'utilisé comme un outil collaboratif il vous suffit glisser 
 
 ## Cahier des charges
 Voici un template de cahier des charges fonctionnels, modifiez le a votre guise ou ajouté le votre !
-
+Dans le Cahier des Charges vous trouverez:
+  - Le pitch
+  - Les Objectifs SMART
+  - La composition des équipes :
+    - Équipe Projet
+    - **Équipe Client** 
 ## CR
 C'est ici que se trouvent tous les compte rendus de réunions
 
