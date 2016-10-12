@@ -1,8 +1,12 @@
 # Guide Utilisateur Template Recettage
 
-Cet outil de recettage se présente sous forme d'un fichier ZIP à l'architecture suivante :
+Cet outil vous propose une structure pour votre recettage. Cette structure contient aussi plusieurs ficher "pré-rempli" pouvant être adapté en fonctions des outils que vous utilisés.
+Cet outil peut permettre a vous et votre équipe de garder une structure pour tout vos recettages, il vous suffit d'y glisser votre travail dans le dossier prévu a cet effet.
 
+## Collaboration
+Si vous souhaitez l'utilisé comme un outil collaboratif il vous suffit glisser le dossier dans votre outil de partage habituel (Google Drive, Dropbox, Github, Slack...)
 
+## Arborescence du template de Recettage
 - [Cahier des Charges](http://www.materialup.com)
 - [Informations](https://www.fliplingo.com)
   - [CR](http://www.streamlineicons.com)
