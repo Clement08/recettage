@@ -7,7 +7,7 @@ Cet outil peut permettre a vous et votre équipe de garder une structure pour to
 Si vous souhaitez l'utilisé comme un outil collaboratif il vous suffit glisser le dossier dans votre outil de partage habituel (Google Drive, Dropbox, Github, Slack...)
 
 ## Arborescence du template de Recettage
-- [Cahier des Charges](http://www.materialup.com)
+- **[Cahier des Charges](http://www.materialup.com)**
 - [Informations](https://www.fliplingo.com)
   - [CR](http://www.streamlineicons.com)
     - [Client](#)
@@ -24,9 +24,8 @@ Si vous souhaitez l'utilisé comme un outil collaboratif il vous suffit glisser 
     - [Client](#)   
   - [Acces.pdf](#)  
 - [Developpement](#)
-- [Informations](#)
-
 - [Livrables](#)
+- **[Feuille de recettage](#)**
 
 ## Cahier des charges
 Voici un template de cahier des charges fonctionnels, modifiez le a votre guise ou ajouté le votre !
@@ -45,3 +44,9 @@ Ici la partie Graphique
 
 ## Organisation
 Toute l'organisation du projet, planning et accès.
+
+## Developpement
+Dans ce dossier se trouve le code sources.
+
+## Livrables
+Ce dossier regroupe tout ce qui à été présenté, livré au client
